@@ -1,3 +1,15 @@
 node_modules/
 .msal-cache.json
 deploy-log.txt
+deploy.js
+package.json
+package-lock.json
+test-connection.js
+check-form.js
+check-wr-props.js
+explore-json.js
+explore-tab.js
+find-icons.js
+query-wr.js
+verify.js
+form.json

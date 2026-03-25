@@ -2,6 +2,12 @@
 
 A full-width account dashboard designed to be embedded as a dedicated tab on the Account form in Microsoft Dynamics 365 Sales. Provides a comprehensive 360-degree view of any account with interactive charts and data tables.
 
+## Screenshots
+
+| Dashboard View | Embedded in Dynamics 365 |
+|:--------------:|:------------------------:|
+| ![Dashboard](img/dashboard-standalone.png) | ![Embedded](img/dashboard-embedded.png) |
+
 ## What It Does
 
 When placed in a "360" tab on an Account record, this dashboard displays:
